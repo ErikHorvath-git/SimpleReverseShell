@@ -35,5 +35,3 @@ Requirements
 Python 3.x installed on the target machine.
 Disclaimer
 This tool should only be used with explicit permission in a controlled environment for ethical hacking and cybersecurity research purposes. Unauthorized use is illegal and could result in severe penalties.
-
-This README provides an overview of your script and emphasizes responsible usage. Let me know if you’d like to make any changes!
