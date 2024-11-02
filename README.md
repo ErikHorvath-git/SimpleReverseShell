@@ -27,7 +27,7 @@ In reverseSH.py, replace:
 
 python
 Copy code
-REMOTE_HOST = "192.168.1.178"
+REMOTE_HOST = "127.0.0.1"
 REMOTE_PORT = 443
 with the actual IP and port.
 
